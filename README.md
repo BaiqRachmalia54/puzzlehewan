@@ -15,7 +15,7 @@ Selamat datang di proyek edukatif **Puzzle Jigsaw Hewan**! Proyek ini dirancang 
 
 ---
 
-## 🖼️ Desain Puzzle
+## 🖼️ Link Puzzle
 
 https://puzzel.org/id/jigsaw/play?p=-OOQlkUtbWUhjRXraj87
 ---
